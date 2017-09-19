@@ -1,0 +1,7 @@
+annotate
+keywords
+identifier: name of class, interface, method, variable.
+constant: can't be change during execute
+ary: binary (0b), octal(0), Decimal, hexadecimal(0x)
+variable
+data type: array
